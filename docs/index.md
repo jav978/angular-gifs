@@ -3,29 +3,33 @@
 layout: home
 # Hero section
 hero:
-  name: Buildm 
-  text: Users Manual
+  name: Builder CRM
+  text: User's manual
   image:
-    src: /logo-blue_big.svg
+    src: /images/users/icons/logo-blue_big.svg
     alt: Adocs logo
-  tagline: Buildm CRM Manual Versión 2.4.13      
+  tagline: Versión 2.4.13      
   actions:
     - theme: brand
       text: Get Started
       link: /quickstart
 # Features section
 features:
-  - icon: ⚡️
-    title: Adocs, The DX that can't be beat
+  - icon: AA
+    link: /users_agency_agent
+    title: Agency Agent
     details: Lorem ipsum...
-  - icon: 🎉
-    title: Power of Vue meets Markdown
+  - icon: AM
+    link: /users_agency_manager
+    title: Agency Manager
     details: Lorem ipsum...
-  - icon: 🔥
-    title: Simple and minimal, always
+  - icon: C
+    link: /users_corporate_manager
+    title: Corporate
     details: Lorem ipsum...
-  - icon: 🎀
-    title: Stylish and cool
+  - icon: S
+    link: /users_supplier
+    title: Supplier
     details: Lorem ipsum...
 
 # Meta property
@@ -51,5 +55,5 @@ head:
   - - link
     - rel: icon
       type: image/svg
-      href: logo-blue_big.svg
+      href: /images/users/icons/logo-blue_big.svg
 ---

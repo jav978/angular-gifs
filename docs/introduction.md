@@ -4,4 +4,4 @@ outline: deep
 
 # Introduction
 
->These documents will help you work with the <b>Buildm CRM</b> application quickly, guide you through the reference images and concepts so that you have an easy user experience and master the use of the application.
+>¡Welcome to the user manual for **Builder CRM**, the most complete and efficient manufactured home sales management system on the market. This manual is designed to provide you with a detailed guide on how to use all of Builder CRM's functions and features to maximize your productivity and enhance your manufactured home selling experience. In this manual, you will find step-by-step instructions, screenshots and useful tips to help you take full advantage of all the tools Builder CRM has to offer. We hope you find this manual helpful and that it will allow you to get the most out of your Builder CRM experience. Let's get started!
