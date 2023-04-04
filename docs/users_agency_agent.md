@@ -54,7 +54,7 @@ outline: deep
     7. Name of the module.
 :::
 
-## Create a new Lead
+### Create a new Lead
 
 
 ---
@@ -75,7 +75,7 @@ To create a new lead, follow the steps below:
 ---
 ![Form register New Lead](images/../public/images/users/Agency-agent/modules/Leads/leadsformregister.png " New Lead")
 
-## List view Leads
+### List view Leads
 
 >The list of Leads view contains the information through a table of the records of the leads.
 
@@ -204,7 +204,7 @@ To create a new lead, follow the steps below:
 
 To edit a  lead, follow the steps below:
 
-1. Navigate to the pencil-shaped button ![Button](images/../public/images/users/Agency-agent/modules/Leads/buttonpencil.png " Button Edit") and select with a click.
+ 1. Navigate to the pencil-shaped button ![Button](images/../public/images/users/ Agency-agent/modules/Leads/buttonpencil.png " Button Edit") and select with a click.
  2. It will display the form in edit view for you to make the changes you need to update.
  3. Enter the data in the form.
  4. Click the Save button.
@@ -246,7 +246,7 @@ To upload a file, follow the steps below:
 
 # Properties Dashboard Module
 
-## Welcome to the properties page
+### Welcome to the properties page
 
 >Welcome to the **Properties Module** section, this module will contain the information regarding the properties of potential clients.
 
@@ -355,7 +355,7 @@ To upload a file, follow the steps below:
 
 To edit a  Property, follow the steps below:
 
-1. Navigate to the pencil-shaped button ![Button](images/../public/images/users/Agency-agent/modules/Leads/buttonpencil.png " Button Edit") and select with a click.
+ 1. Navigate to the pencil-shaped button ![Button](images/../public/images/users/Agency-agent/modules/Leads/buttonpencil.png " Button Edit") and select with a click.
  2. It will display the form in edit view for you to make the changes you need to update.
  3. Enter the data in the form.
  4. Click the Save button.
@@ -499,7 +499,7 @@ To upload a file, follow the steps below:
 >Archive button its function is to archive the record in order not to be shown in the table, it must be taken into account that it only works with users with higher privileges.
 
 
-## Welcome to the User module
+### Welcome to the User module
 >Welcome to the User Module section, this module will contain the personal information of the users that will enter the application.
 
 
@@ -553,7 +553,7 @@ To upload a file, follow the steps below:
 :::
 
 
-## Edit User
+### Edit User
 
 ### Edit Button   ![Button](images/../public/images/users/Agency-agent/modules/Leads/buttonpencil.png " Button Edit")
 

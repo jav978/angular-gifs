@@ -4,7 +4,7 @@ outline: deep
 
 # Agency Manager User
 
-## Welcome to the Agency Manager page
+### Welcome to the Agency Manager page
 
 >Welcome to the **Agency Manager user** section, this manual is designed to be easy to follow and use through detailed explanations, illustrations and practical examples, we will provide you with a step by step guide on how to use the Builder CRM system, in this section we will work on the Agency Manager user workflow through the following modules **(Leads, Properties, Emails, Users, Agency)**.
 
@@ -54,7 +54,7 @@ outline: deep
     7. Name of the module.
 :::
 
-## List view Leads
+### List view Leads
 
 >The list of Leads view contains the information through a table of the records of the leads.
 
@@ -84,7 +84,7 @@ outline: deep
 
 :::
 
-## Create a new Lead
+### Create a new Lead
 
 ---
 
@@ -275,7 +275,7 @@ To upload a file, follow the steps below:
  2. **Module name, number of records, search buttons, update, archive, new property**.
  3. **Status:** Open.**Dropdown**: with options open, closed, archived.
  4. **Table with the address of the contact's property**.
- 6. **Action buttons** "Status open green color", read, edit, upload, archive.
+ 5. **Action buttons** "Status open green color", read, edit, upload, archive.
 
 :::
 
@@ -779,7 +779,7 @@ To archive a Property, follow the steps below:
  4. Click the Save button.
 :::
 
-## Archived Agency
+### Archived Agency
 
 ---  
 ### Archive Button  ![Button Upload](images/../public/images/users/Agency-manager/modules/Users/buttonarchivedred.png "Archive button")
@@ -809,7 +809,7 @@ To archive a Property, follow the steps below:
 
 ---
 
-# Exit the system 
+### Exit the system 
 
 >To exit the application navigate to the main menu and click on the logout option.
 

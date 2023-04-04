@@ -57,7 +57,7 @@ outline: deep
     7. Name of the module.
 :::
 
-## List view Leads
+### List view Leads
 
 >The list of Leads view contains the information through a table of the records of the leads.
 
@@ -87,7 +87,7 @@ outline: deep
 
 :::
 
-## Create a new Lead
+### Create a new Lead
 
 ---
 
@@ -240,7 +240,7 @@ To upload a file, follow the steps below:
 
 # Properties Dashboard Module
 
-## Welcome to the properties page
+### Welcome to the properties page
 
 >Welcome to the **Properties Module** section, this module will contain the information regarding the properties of potential clients.
 
@@ -278,7 +278,7 @@ To upload a file, follow the steps below:
  2. **Module name, number of records, search buttons, update, archive, new property**.
  3. **Status:** Open.**Dropdown**: with options open, closed, archived.
  4. **Table with the address of the contact's property**.
- 6. **Action buttons** "Status open green color", read, edit, upload, archive.
+ 5. **Action buttons** "Status open green color", read, edit, upload, archive.
 
 :::
 
@@ -611,7 +611,7 @@ To archive a Property, follow the steps below:
   1. Navigate to the main dashboard menu and select the user link with a click.
   2. Select the new user button ![Agency Manager User dasboard](images/../public/images/users/Agency-manager/modules/Users/buttonnewuser.png "Agency Manager Dashboard").
   3. Enter the data in the form.
-  4. Click on the save button.
+  4. Click on the save button.   
 :::
 
 ### Edit User
@@ -782,7 +782,7 @@ To archive a Property, follow the steps below:
  4. Click the Save button.
 :::
 
-## Archived Agency
+### Archived Agency
 
 ---  
 ### Archive Button  ![Button Upload](images/../public/images/users/Agency-manager/modules/Users/buttonarchivedred.png "Archive button")
@@ -823,7 +823,6 @@ To archive a Property, follow the steps below:
 ![AQuotes modules](images/../public/images/users/Corporate/modules/Quotes/corpotatequoteslist.png " Corporate Quotes")
 
 ---
-
 
 ### Create a new Quote
 
