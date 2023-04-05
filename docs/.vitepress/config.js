@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Docs",
   description: "A Buildm Site",
   themeConfig: {
-    logo: "/images/users/icons/logo-blue_big.svg",
+    logo: "/images/quotes/icons/buildmgreen.png",
     siteTitle: false,
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -16,7 +16,7 @@ export default defineConfig({
         // Dropdown Menu
         text: "Changelog",
         items: [
-          { text: "v 2.4.13", link: "/item-1" }          
+          { text: "v 1.0", link: "/item-1" }          
         ],
       },
     ],
@@ -31,28 +31,13 @@ export default defineConfig({
           { text: 'Quickstart Guide', link: '/quickstart' },
           {
             items: [
-              {  text: 'Login', link: '/quickstart.html#login' },              
-              { text: 'Forgot Password', link: '/quickstart.html#forgot-password' },
-              { text: 'Forgot Password send message', link: '/quickstart.html#forgot-password-send-message' }
+              { text: 'Floor Plan', link: '/menu_floorplan' },              
+              { text: 'Exterior', link: '/menu_exterior' },
+              { text: 'Interior', link: '/menu_interior' },
+              { text: 'Details', link: '/menu_details' },
             ]
           }
         ]
-      },
-      {
-        text: "Users Builder CRM",
-        collapsible: true,
-        collapsed: true,
-        items: [         
-          { text: "Users", link: "/users" },
-          {
-            items:[
-              { text: "Agency Agent", link: "/users_agency_agent" },
-              { text: "Agency Manager", link: "/users_agency_manager" },
-              { text: "Corporate Manager", link: "/users_corporate_manager" },
-              { text: "Supplier", link: "/users_supplier" },
-            ]
-          }          
-        ],
       }
     ],
     socialLinks: [      
